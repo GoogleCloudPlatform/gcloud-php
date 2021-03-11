@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.152.0
+
+<details><summary>google/cloud-core 1.41.1</summary>
+
+
+
+### Bug Fixes
+
+* InMemoryConfigStorage magic method visibility in PHP 8 ([#3896](https://www.github.com/googleapis/google-cloud-php/issues/3896)) ([436a2a4](https://www.github.com/googleapis/google-cloud-php/commit/436a2a443cbb8c14d7aca559483fa0603f42be3a))
+
+</details>
+
+<details><summary>google/cloud-spanner 1.35.0</summary>
+
+
+
+### Features
+
+* **spanner:** add CMEK fields to backup and database ([#3843](https://www.github.com/googleapis/google-cloud-php/issues/3843)) ([530b116](https://www.github.com/googleapis/google-cloud-php/commit/530b11623e912c14e4b0b2d157f2344e72a0004d))
+
+</details>
+
 ## 0.151.0
 
 <details><summary>google/analytics-data 0.3.0</summary>
